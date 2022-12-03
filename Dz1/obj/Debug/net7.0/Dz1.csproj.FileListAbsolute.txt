@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/obj/Debug/net7.0/Dz1.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/obj/Debug/net7.0/Dz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/obj/Debug/net7.0/Dz1.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/obj/Debug/net7.0/Dz1.AssemblyInfo.cs
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/obj/Debug/net7.0/Dz1.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/bin/Debug/net7.0/Dz1
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/bin/Debug/net7.0/Dz1.deps.json
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/bin/Debug/net7.0/Dz1.runtimeconfig.json
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/bin/Debug/net7.0/Dz1.dll
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/bin/Debug/net7.0/Dz1.pdb
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/obj/Debug/net7.0/Dz1.dll
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/obj/Debug/net7.0/refint/Dz1.dll
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/obj/Debug/net7.0/Dz1.pdb
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/obj/Debug/net7.0/Dz1.genruntimeconfig.cache
+/Users/macbook/Desktop/GB/Study/VvedenieVprogramirovanie/Homework/Leason1/Dz1/obj/Debug/net7.0/ref/Dz1.dll
